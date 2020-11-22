@@ -3,3 +3,5 @@ line in the middle
 second line
 new line
 kk
+
+last line of first txt file
