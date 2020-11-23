@@ -2,6 +2,7 @@ first line
 line in the middle
 second line
 new line
+file added
 kk
 
 last line of first txt file
