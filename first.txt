@@ -5,7 +5,7 @@ second line
 new line
 file added
 kk
-master fix
+master fix sss
 new line in new_feature
 
 last line of first txt file
