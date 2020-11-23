@@ -1,5 +1,6 @@
 first line
 new edit in feature 2
+new line added from github
 line in the middle
 second line
 new line
