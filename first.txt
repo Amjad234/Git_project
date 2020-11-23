@@ -3,5 +3,6 @@ line in the middle
 second line
 new line
 kk
+new line in new_feature
 
 last line of first txt file
