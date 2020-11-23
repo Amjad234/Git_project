@@ -4,5 +4,6 @@ second line
 new line
 file added
 kk
+master fix
 
 last line of first txt file
